@@ -1,6 +1,6 @@
 from openai import OpenAI
 
-client = OpenAI(api_key="sk-YourAPIKey")
+client = OpenAI(api_key='')
 import pandas as pd
 
 
